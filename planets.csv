@@ -42,8 +42,8 @@ Eclipse Timing Variations,2,5573.55,,500,2010
 Eclipse Timing Variations,2,2883.5,,500,2010
 Eclipse Timing Variations,1,2900,,,2011
 Eclipse Timing Variations,1,4343.5,4.2,,2012
-Eclipse Timing Variations,2,5840,,,2011
-Eclipse Timing Variations,2,1916.25,,,2011
+Eclipse Timing Variations,2,5840,4.2,,2011
+Eclipse Timing Variations,2,1916.25,4.2,,2011
 Radial Velocity,1,380.8,1.8,20.21,2010
 Radial Velocity,1,3.2357,0.0036,1.35,2012
 Imaging,1,6000,,19.28,2008
@@ -90,48 +90,48 @@ Radial Velocity,1,578.2,,,2012
 Radial Velocity,1,392.6,0.91,,2011
 Imaging,1,10037.5,,23.1,2011
 Imaging,1,,,,2006
-Transit,1,1.5089557,,,2008
-Transit,1,1.7429935,,200,2008
-Transit,1,4.2568,,680,2008
-Transit,1,9.20205,,,2008
-Transit,1,4.0378962,,,2009
-Transit,1,8.886593,,,2009
-Transit,2,0.853585,,150,2009
-Radial Velocity,2,3.698,,150,2009
-Transit,1,6.21229,,380,2010
-Transit,1,95.2738,,460,2009
-Transit,1,13.2406,,345,2010
-Transit,1,2.99433,,560,2010
-Transit,1,2.828042,,1150,2010
-Transit,1,4.03519,,1060,2010
-Transit,1,1.51214,,1340,2010
-Transit,1,5.35227,,840,2011
-Transit,1,3.7681,,920,2011
-Transit,1,1.9000693,,870,2011
+Transit,1,1.5089557,0.282,,2008
+Transit,1,1.7429935,1.98,200,2008
+Transit,1,4.2568,0.033,680,2008
+Transit,1,9.20205,0.038,,2008
+Transit,1,4.0378962,0.058,,2009
+Transit,1,8.886593,7.3,,2009
+Transit,2,0.853585,2,150,2009
+Radial Velocity,2,3.698,3.15,150,2009
+Transit,1,6.21229,6.21229,380,2010
+Transit,1,95.2738,1.34,460,2009
+Transit,1,13.2406,3.33,345,2010
+Transit,1,2.99433,0.004,560,2010
+Transit,1,2.828042,4.56,1150,2010
+Transit,1,4.03519,2.88,1060,2010
+Transit,1,1.51214,3.76,1340,2010
+Transit,1,5.35227,2.98,840,2011
+Transit,1,3.7681,1.99,920,2011
+Transit,1,1.9000693,4.78,870,2011
 Transit,1,3.89713,,770,2011
 Transit,1,9.24285,,1230,2011
-Transit,1,3.6313,,600,2011
+Transit,1,3.6313,1.34,600,2011
 Transit,1,3.57532,,,2014
-Astrometry,1,246.36,,20.77,2013
-Radial Velocity,1,15.76491,3.91,10.91,1999
-Radial Velocity,3,8.631,0.035,14.97,2013
-Radial Velocity,3,25.6,0.024,14.97,2013
-Radial Velocity,3,603,0.079,14.97,2013
-Radial Velocity,1,2288,0.82,12.12,2009
-Radial Velocity,2,692,1.894,15.1,2007
-Radial Velocity,2,7100,1.6,15.1,2011
-Radial Velocity,1,4100,2.3,20.03,2013
-Radial Velocity,1,7.3709,0.018,9.04,2011
-Radial Velocity,1,2.64385,,10.23,2004
-Imaging,1,,,17.95,2013
-Radial Velocity,4,5.36874,0.049,6.27,2005
-Radial Velocity,4,12.9292,0.017,6.27,2005
-Radial Velocity,4,66.8,0.022,6.27,2005
-Radial Velocity,4,3.14942,0.006,6.27,2005
-Radial Velocity,1,598.3,0.328,10.32,2009
-Radial Velocity,6,7.2004,0.018,6.8,2011
-Radial Velocity,6,28.14,0.012,6.8,2011
-Radial Velocity,6,91.61,0.016,6.8,2013
+Astrometry,1,246.36,6.86,20.77,2013
+Radial Velocity,1,15.76491,2.7,10.91,1999
+Radial Velocity,3,8.631,,14.97,2013
+Radial Velocity,3,25.6,,14.97,2013
+Radial Velocity,3,603,1.3,14.97,2013
+Radial Velocity,1,2288,0.4,12.12,2009
+Radial Velocity,2,692,0.132,15.1,2007
+Radial Velocity,2,7100,0.01133,15.1,2011
+Radial Velocity,1,4100,1.5,20.03,2013
+Radial Velocity,1,7.3709,0.92,9.04,2011
+Radial Velocity,1,2.64385,7,10.23,2004
+Imaging,1,,1.78,17.95,2013
+Radial Velocity,4,5.36874,0.22,6.27,2005
+Radial Velocity,4,12.9292,1.78,6.27,2005
+Radial Velocity,4,66.8,8.44,6.27,2005
+Radial Velocity,4,3.14942,0.057,6.27,2005
+Radial Velocity,1,598.3,3.86,10.32,2009
+Radial Velocity,6,7.2004,0.37,6.8,2011
+Radial Velocity,6,28.14,0.0263,6.8,2011
+Radial Velocity,6,91.61,0.0318,6.8,2013
 Radial Velocity,6,62.24,0.008,6.8,2013
 Radial Velocity,6,39.026,0.008,6.8,2013
 Radial Velocity,6,256.2,0.014,6.8,2013
@@ -552,24 +552,24 @@ Transit,1,1.72086123,,1056,2014
 Transit,1,66.262,,,2014
 Imaging,1,40000,,,2011
 Transit,1,3.91405,,2000,2007
-Microlensing,1,,,,2008
-Microlensing,1,,,,2008
-Microlensing,1,,,,2009
-Microlensing,1,,,3600,2013
-Microlensing,1,2780,,,2011
-Microlensing,1,,,,2010
-Microlensing,1,1970,,,2010
-Microlensing,1,,,2300,2012
-Microlensing,1,,,2800,2012
-Microlensing,1,,,7720,2012
-Microlensing,1,,,7560,2013
+Microlensing,1,,4.2,,2008
+Microlensing,1,,4.2,,2008
+Microlensing,1,,4.2,,2009
+Microlensing,1,,4.2,3600,2013
+Microlensing,1,2780,4.2,,2011
+Microlensing,1,,4.2,,2010
+Microlensing,1,1970,4.2,,2010
+Microlensing,1,,4.2,2300,2012
+Microlensing,1,,4.2,2800,2012
+Microlensing,1,,4.2,7720,2012
+Microlensing,1,,4.2,7560,2013
 Radial Velocity,1,677.8,19.8,,2007
 Radial Velocity,1,6.958,0.34,,2014
 Radial Velocity,1,5.118,0.4,,2014
 Radial Velocity,1,121.71,1.54,,2014
-Microlensing,1,,,,2004
-Microlensing,1,3600,,,2005
-Microlensing,1,3300,,,2006
+Microlensing,1,,4.2,,2004
+Microlensing,1,3600,4.2,,2005
+Microlensing,1,3300,4.2,,2006
 Microlensing,1,3500,,,2005
 Microlensing,2,1825,,,2008
 Microlensing,2,5100,,,2008
